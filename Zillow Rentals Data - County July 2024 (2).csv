@@ -1,0 +1,47 @@
+RegionID,SizeRank,RegionName,RegionType,StateName,State,Metro,StateCodeFIPS,COUNTYFP,fips,AvgRentJuly
+1510,19,Alameda County,county,CA,CA,"San Francisco-Oakland-Berkeley, CA",6,001,06001,2836.51498
+829,1200,Amador County,county,CA,CA,,6,005,06005 ,1764.166667
+418,314,Butte County,county,CA,CA,"Chico, CA",6,007,06007,1648.057186
+2643,1082,Calaveras County,county,CA,CA,,6,009,06009,2098.611111
+3159,37,Contra Costa County,county,CA,CA,"San Francisco-Oakland-Berkeley, CA",6,013,06013 ,3086.280673
+2691,350,El Dorado County,county,CA,CA,"Sacramento-Roseville-Folsom, CA",6,017,06017,2485.533399
+1018,46,Fresno County,county,CA,CA,"Fresno, CA",6,019,06019,2016.051747
+2351,476,Humboldt County,county,CA,CA,"Eureka-Arcata, CA",6,023,06023,1543.106061
+2354,373,Imperial County,county,CA,CA,"El Centro, CA",6,025,06025 ,1593.888889
+204,61,Kern County,county,CA,CA,"Bakersfield, CA",6,029,06029,1839.088318
+580,446,Kings County,county,CA,CA,"Hanford-Corcoran, CA",6,031,06031,1944.734432
+217,797,Lake County,county,CA,CA,"Clearlake, CA",6,033,06033,1616.5
+3101,0,Los Angeles County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",6,037,06037,2912.651177
+1156,430,Madera County,county,CA,CA,"Madera, CA",6,039,06039,2155.119048
+625,266,Marin County,county,CA,CA,"San Francisco-Oakland-Berkeley, CA",6,041,06041,3835.933691
+2796,654,Mendocino County,county,CA,CA,"Ukiah, CA",6,045,06045,1745.833333
+1196,249,Merced County,county,CA,CA,"Merced, CA",6,047,06047,2028.338492
+253,2268,Mono County,county,CA,CA,,6,051,06051,4291.25
+2444,161,Monterey County,county,CA,CA,"Salinas, CA",6,053,06053,2731.593813
+255,472,Napa County,county,CA,CA,"Napa, CA",6,055,06055,3097.139171
+1261,600,Nevada County,county,CA,CA,"Truckee-Grass Valley, CA",6,057,06057,2661.694139
+1286,5,Orange County,county,CA,CA,"Los Angeles-Long Beach-Anaheim, CA",6,059,06059,3198.533688
+1325,177,Placer County,county,CA,CA,"Sacramento-Roseville-Folsom, CA",6,061,06061,2624.192755
+2832,9,Riverside County,county,CA,CA,"Riverside-San Bernardino-Ontario, CA",6,065,06065,2636.721519
+3017,23,Sacramento County,county,CA,CA,"Sacramento-Roseville-Folsom, CA",6,067,06067,2236.298664
+3020,852,San Benito County,county,CA,CA,"San Jose-Sunnyvale-Santa Clara, CA",6,069,06069,3239.847222
+3250,13,San Bernardino County,county,CA,CA,"Riverside-San Bernardino-Ontario, CA",6,071,06071,2517.167343
+2841,4,San Diego County,county,CA,CA,"San Diego-Chula Vista-Carlsbad, CA",6,073,06073,3106.329468
+3227,65,San Francisco County,county,CA,CA,"San Francisco-Oakland-Berkeley, CA",6,075,06075,3439.047019
+3134,83,San Joaquin County,county,CA,CA,"Stockton, CA",6,077,06077,2444.856433
+3261,247,San Luis Obispo County,county,CA,CA,"San Luis Obispo-Paso Robles, CA",6,079,06079,2915.40463
+2842,85,San Mateo County,county,CA,CA,"San Francisco-Oakland-Berkeley, CA",6,081,06081,3441.540236
+3229,159,Santa Barbara County,county,CA,CA,"Santa Maria-Santa Barbara, CA",6,083,06083,3360.227229
+3136,16,Santa Clara County,county,CA,CA,"San Jose-Sunnyvale-Santa Clara, CA",6,085,06085 ,3477.317667
+3025,254,Santa Cruz County,county,CA,CA,"Santa Cruz-Watsonville, CA",6,087,06087,3603.588809
+1380,368,Shasta County,county,CA,CA,"Redding, CA",6,089,06089,1628.545455
+1395,158,Solano County,county,CA,CA,"Vallejo, CA",6,095,06095,2475.850721
+1396,144,Sonoma County,county,CA,CA,"Santa Rosa-Petaluma, CA",6,097,06097,2695.829061
+3033,124,Stanislaus County,county,CA,CA,"Modesto, CA",6,099,06099,2016.672867
+1415,610,Sutter County,county,CA,CA,"Yuba City, CA",6,101,06101,2126.066138
+1426,831,Tehama County,county,CA,CA,"Red Bluff, CA",6,103,06103,1492.869048
+1442,151,Tulare County,county,CA,CA,"Visalia, CA",6,107,06107,1759.226254
+2584,938,Tuolumne County,county,CA,CA,"Sonora, CA",6,109,06109,1866.111111
+2061,74,Ventura County,county,CA,CA,"Oxnard-Thousand Oaks-Ventura, CA",6,111,06111,3110.527287
+340,315,Yolo County,county,CA,CA,"Sacramento-Roseville-Folsom, CA",6,113,06113,2475.608321
+346,713,Yuba County,county,CA,CA,"Yuba City, CA",6,115,06115,1951.518519
